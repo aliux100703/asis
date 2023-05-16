@@ -1,0 +1,6 @@
+{
+    "git.terminalAuthentication": true,
+    "git.terminalGitEditor": true,
+    "terminal.integrated.allowMnemonics": true,
+    "terminal.explorerKind": "external"
+}
